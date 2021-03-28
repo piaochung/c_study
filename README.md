@@ -8,7 +8,7 @@
 - 연산자(+, -, *, /, %) 
 - 입출력(printf, scanf)
 - 연습 문제(homework)
-#### [chapter 02로 바로가기](https://github.com/piaochung/c_study/tree/main/%EC%86%8C%EC%8A%A4%20%EC%BD%94%EB%93%9C/chap2)
+#### [chapter 02로 바로가기](https://github.com/piaochung/c_study/tree/main/chapter2_presentation.pdf)
 - 조건문(if, switch~case)
 - 연습 문제
 #### [chapter 03로 바로가기](https://github.com/piaochung/c_study/tree/main/%EC%86%8C%EC%8A%A4%20%EC%BD%94%EB%93%9C/chap3)
