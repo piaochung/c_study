@@ -19,7 +19,7 @@ int main() {
         else if(i == 4){
           printf("3-2. i의 숫자가 %d이다.\n", i);
         }
-        else{
+        else if(i == 5){
           printf("3-3. i의 숫자가 %d이다.\n", i);
         }
         break;
@@ -27,7 +27,7 @@ int main() {
         printf("4. i의 숫자가 %d으로 case 조건 범위 밖이다.\n", i);
         break;
     }
+    printf("--------------------------------------------\n");
   }
   return 0;
 }
-
