@@ -1,10 +1,19 @@
 #include <stdio.h>
 
 int main() {
-  int b = 0b00010000;
-  int b_1 = 0b10000;
-  int y = 16;
-  
-  printf("10진법: %d, 2진법: %d, 2진법: %d", y, b_1, b);
+  char input;
+  int num;
+  scanf("%c", &input);
+  num = (int)input;
+  if (num > 122){
+    printf("Out Of Range");
+  }
+  else if (num < 65){
+    printf("Out Of Range");
+  }
+  else{
+    printf("%d", input);
+  }
   return 0;
 }
+
