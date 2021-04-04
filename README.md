@@ -9,12 +9,16 @@
 - 입출력(printf, scanf)
 - 연습 문제(homework)
 #### [chapter 02로 바로가기](https://github.com/piaochung/c_study/tree/main/data/chapter2_presentation.pdf)
-- 조건문(if, switch~case)
-- 연습 문제
+- 조건문(if~else if~else)
+- 조건문(switch~case~default)
+- 연습 문제(homework)
 #### [chapter 03로 바로가기](https://github.com/piaochung/c_study/tree/main/%EC%86%8C%EC%8A%A4%20%EC%BD%94%EB%93%9C/chap3)
-- 반복문(while, do~while, for)
-- 연습 문제
+- 반복문(while)
+- 반복문(do~while)
+- 반복문(for)
+- 연습 문제(homework)
 
 #### [chapter 04로 바로가기](https://github.com/piaochung/c_study/tree/main/%EC%86%8C%EC%8A%A4%20%EC%BD%94%EB%93%9C/chap4)
-- 함수 (void)
+- 함수 (void, int, float, double)
+- 재귀 함수 (Factorial, Fibonacci)
 - 연습 문제
