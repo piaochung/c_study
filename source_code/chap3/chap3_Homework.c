@@ -2,11 +2,11 @@
 
 int main() {
   int n = 0, m = 0;
-  int sum = 0, mutiply = 1;
+  unsigned int sum = 0, mutiply = 1;
   
   while(1){
     sum = 0, mutiply = 1;
-    printf("\n두 개의 양의 정수를 공백을 기준으로 입력해주세요>>");
+    printf("\n두 개의 0을 제외한 양의 정수를 공백을 기준으로 입력해주세요>>");
     scanf("%d %d", &n, &m);
 
     if(n > m){
@@ -14,13 +14,11 @@ int main() {
       n = m;
       m = temp;
     }
-
     if (n > 0 && m > 0){
       for(int i = n; i <= m; i++){
         sum += i;
         mutiply *= i;
       }
-
       printf("\n%d부터 %d까지의 합은 %d이다.\n", n, m, sum);
       printf("%d부터 %d까지의 곱은 %d이다.\n", n, m, mutiply);
     }
