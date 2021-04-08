@@ -1,12 +1,14 @@
-while(조건문){
-  //작동 코드
-}
+#include <stdio.h>
 
-do{ 
-  //작동 코드
-}while(조건문)
-
-
-for(시작조건; 종료조건; 조건 변화식){
-  //작동 코드문)
+int main(){
+  int i = 0, sum = 0, mutiply = 1;
+  
+  printf("\nwhile문을 이용하여 0~5까지 출력\n");
+  
+  while(i < 5){
+    i++;
+    sum += i;
+    mutiply *= i;
+  }
+  printf("sum= %d, mutiply = %d", sum, mutiply);
 }
