@@ -20,7 +20,7 @@ void detect_bigger_number(int a, int b){
 }
 
 void printf_fn(int a){
-  printf("숫자 %d이(가) 입력되었습니다.\n", a);
+  printf("숫자 %d가 입력되었습니다.\n", a);
 }
 
 void method_in_method(int a, int b, int c){
