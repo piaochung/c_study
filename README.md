@@ -20,5 +20,9 @@
 
 #### [chapter 04로 바로가기](https://github.com/piaochung/c_study/tree/main/%EC%86%8C%EC%8A%A4%20%EC%BD%94%EB%93%9C/chap4)
 - 함수 (void, int, float, double)
+- 연습 문제
+
+#### [chapter 05로 바로가기](https://github.com/piaochung/c_study/tree/main/%EC%86%8C%EC%8A%A4%20%EC%BD%94%EB%93%9C/chap4)
 - 재귀 함수 (Factorial, Fibonacci)
+- 포인터 (Pointer)
 - 연습 문제
